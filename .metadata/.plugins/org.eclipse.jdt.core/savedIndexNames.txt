@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+F:\antlr4_practice\.metadata\.plugins\org.eclipse.jdt.core
-1818504620.index
-2220429052.index
-2338328434.index
-196039829.index
